@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Moon website</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Moon website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <managingEditor>aboode4ksa2@hotmail.com (Beyond the speed force)</managingEditor>
+    <webMaster>aboode4ksa2@hotmail.com (Beyond the speed force)</webMaster>
+    <copyright>copyrights belongs to my friend from the other collage ,*winks*</copyright>
+    <lastBuildDate>Wed, 19 Mar 2025 21:40:27 +0300</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>تأثير الانترنت بالإعلام</title>
+      <link>//localhost:1313/posts/the-b/secondpost/</link>
+      <pubDate>Wed, 19 Mar 2025 21:40:27 +0300</pubDate>
+      <author>aboode4ksa2@hotmail.com (Beyond the speed force)</author>
+      <guid>//localhost:1313/posts/the-b/secondpost/</guid>
+      <description>تغير الإعلام وتحوله للعالم الرقمي # قبل ظهور الانترنت كانوا المواطنين يعتمدون على وسائل الإعلام التقليدية مثل الجريدة والتلفاز والراديو والخ بعد ظهور الانترنت سببت ثورة كبيرة بالإعلام السعودي حيث مع ظهور الانترنت ظهرت المدونات وكانت تستخدم من قبل الجميع تقريبا ومع مرور الزمن ظهرت مواقع التواصل الاجتماعي مثل التويتر والفيسبوك, وبفضلها تطور الإعلام والإعلان الى مستوى جديد تماما</description>
+      
+    </item>
+    
+    <item>
+      <title>دخول الانترنت للسعودية</title>
+      <link>//localhost:1313/posts/the-b/firstpost/</link>
+      <pubDate>Wed, 19 Mar 2025 21:37:23 +0300</pubDate>
+      <author>aboode4ksa2@hotmail.com (Beyond the speed force)</author>
+      <guid>//localhost:1313/posts/the-b/firstpost/</guid>
+      <description>اول ظهور للإنترنت # دخل الانترنت بشكل رسمي لأول مرة بالمملكة العربية السعودية بعام 1997, حيث كان يستعمل من قبل المؤسسات الحكومية, وبعام 1999 سمح للعامة بإستخدام الانترنت لأول مرة بالمملكة العربية السعودية</description>
+      
+    </item>
+    
+  </channel>
+</rss>
