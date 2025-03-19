@@ -2,7 +2,7 @@ disabled = false
 languageCode = "ar"
 languageName = "English"
 weight = 1
-title = "Moon website"
+title = "Moon blog :D"
 
 [params]
   displayName = "EN"
@@ -11,7 +11,7 @@ title = "Moon website"
   dateFormat = "2 January 2006"
    logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-   description = "shiity website"
+   description = "small info about the internet history in SA"
    copyright = "copyrights belongs to my friend from the other collage ,*winks*"
 
  [params.author]
@@ -21,16 +21,16 @@ title = "Moon website"
    imageQuality = 96
    headline = "The history of the internet in saudi arabia"
    bio = "looking for something? -^-"
-#   links = [
-#     { email = "aboode4ksa2@hotmail.com" },
-#     { link = "https://link-to-some-website.com/" },
+   links = [
+     { email = "aboode4ksa2@hotmail.com" },
+#    { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
 #     { bluesky = "https://bsky.app/profile/username" },
 #     { codepen = "https://codepen.io/username" },
 #     { dev = "https://dev.to/username" },
-#     { discord = "https://discord.gg/invitecode" },
+     { discord = "https://discord.gg/GvE2yAqDXv" },
 #     { dribbble = "https://dribbble.com/username" },
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
@@ -70,4 +70,4 @@ title = "Moon website"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+   ]
